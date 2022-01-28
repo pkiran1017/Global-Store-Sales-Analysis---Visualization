@@ -37,7 +37,7 @@
 ##### These visualization helps to improve and Analyze store sale.
 
 ### Video Demo
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/sdRoXEqVE0g)
+[![Watch the video](https://raw.githubusercontent.com/pkiran1017/Global-Store-Sales-Analysis-And-Visualization/main/Screenshots/livedemo.gif)](https://youtu.be/sdRoXEqVE0g)
 
 ### Future Scope
 
