@@ -40,6 +40,14 @@
 #### [Click to Play Demo](https://youtu.be/sdRoXEqVE0g)
 [![Watch the video](https://raw.githubusercontent.com/pkiran1017/Global-Store-Sales-Analysis-And-Visualization/main/Screenshots/livedemo.gif)](https://youtu.be/sdRoXEqVE0g)
 
+### Developing Steps
+
+- Connecting Databases.
+- Analyzing Tables & Relations.
+- Data Cleaning - Power Query Editor :- DAX.
+- Developing Model.
+- Creating Dashboard.
+
 ### Future Scope
 
 - You can change visualization as per your requirement.
