@@ -36,8 +36,8 @@
 - Showes Sales By Country.
 ##### These visualization helps to improve and Analyze store sale.
 
-### Demo
-[![Global-Store-Sales-Analysis-And-Visualization](https://img.youtube.com/vi/sdRoXEqVE0g)](https://www.youtube.com/watch?v=sdRoXEqVE0g)
+### Video Demo
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/sdRoXEqVE0g)
 
 ### Future Scope
 
